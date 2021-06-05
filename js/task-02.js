@@ -15,6 +15,20 @@ ingredients.map(vegatables => {
 console.log(elements);
 document.body.append(...elements);
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 //   const el= document.createElement('li');
 //   console.log(el); 
  
