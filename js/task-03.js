@@ -18,7 +18,7 @@ const images = [
   const liEl = ({url, alt}) => {
     return `
     <li>
-    <img class='image' src='${url} alt='${alt}'>
+    <img class='image' src='${url} alt='${alt}' width=240>
     </li>
     `;
   }
